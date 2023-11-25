@@ -1,0 +1,24 @@
+{
+  "posts": [
+    {
+      "id": 6,
+      "firstName": "sricharan",
+      "lastName": "v",
+      "email": "v7@",
+      "mobile": "986756766",
+      "salary": "888880"
+    },
+    {
+      "id": 4,
+      "firstName": "sri",
+      "lastName": "dfg",
+      "email": "ghf",
+      "mobile": "g",
+      "salary": "543"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
